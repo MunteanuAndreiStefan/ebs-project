@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option java_outer_classname = "SubscriptionMessage";
+option java_package = "com.ebs.project.proto";
+
+message SubscriptionDTO {
+  string companyName = 1;
+  string companyNameOperation = 2;
+
+  double companyDrop = 3;
+  string companyDropOperation = 4;
+
+  double companyValue = 5;
+  string companyValueOperation = 6;
+
+  double companyVariation = 7;
+  string companyVariationOperation = 8;
+
+  string companyDate = 9;
+  string companyDateOperation = 10;
+
+  string host = 11;
+  int32 port = 12;
+  string queueName = 13;
+}

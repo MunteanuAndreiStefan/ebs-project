@@ -1,0 +1,2 @@
+`docker run -d --hostname rabbit-ebs --name ebs-rabbit -p 5673:5672 -p 15672:15672 rabbitmq:3-management`
+In order to see how RabbitMQ is running go to `http://localhost:15672/`. Use username "guest" and password "guest" to log in.

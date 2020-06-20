@@ -1,0 +1,10 @@
+{'company': 'Dell', 'value': 65.31, 'drop': 13.68, 'variation': 0.2, 'date': '2020.05.08'}
+{'company': 'AT&T', 'value': 59.04, 'drop': 6.6, 'variation': 0.41, 'date': '2020.08.07'}
+{'company': 'IBM', 'value': 14.28, 'drop': 10.76, 'variation': 0.97, 'date': '2020.08.07'}
+{'company': 'Verizon', 'value': 74.62, 'drop': 6.43, 'variation': 0.21, 'date': '2020.05.08'}
+{'company': 'Boeing', 'value': 27.37, 'drop': 6.7, 'variation': 0.73, 'date': '2020.05.08'}
+{'company': 'AT&T', 'value': 67.15, 'drop': 4.61, 'variation': 0.6, 'date': '2020.08.07'}
+{'company': 'Intel', 'value': 18.45, 'drop': 5.36, 'variation': 0.24, 'date': '2020.08.07'}
+{'company': 'Amazon', 'value': 47.51, 'drop': 10.93, 'variation': 0.66, 'date': '2020.08.07'}
+{'company': 'Verizon', 'value': 48.88, 'drop': 3.08, 'variation': 0.69, 'date': '2020.09.28'}
+{'company': 'AT&T', 'value': 29.66, 'drop': 9.18, 'variation': 0.44, 'date': '2020.09.21'}

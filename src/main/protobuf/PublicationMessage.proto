@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option java_outer_classname = "PublicationMessage";
+option java_package = "com.ebs.project.proto";
+
+message PublicationDTO {
+  string companyName = 1;
+  double drop = 2;
+  double value = 3;
+  double variation = 4;
+  string date = 5;
+}
